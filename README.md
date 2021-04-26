@@ -2,4 +2,4 @@
 このリポジトリはGit動画講座用です．
 ローカルで変更  
 conflictブランチで変更
-rebase-practiceで更新(rebase用)
+mainブランチで更新(rebaseコンフリクト用)
