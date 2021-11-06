@@ -6,4 +6,4 @@ rebase-practiceで更新(rebaseコンフリクト用)
 rebase用
 stash練習(2nd)
 
-no-fast-forwardブランチで変更
+conflictブランチで変更
