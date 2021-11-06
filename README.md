@@ -5,3 +5,5 @@ conflictブランチで変更
 rebase-practiceで更新(rebaseコンフリクト用)
 rebase用
 stash練習(2nd)
+
+new-featureブランチで変更
